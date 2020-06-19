@@ -9,6 +9,6 @@ Community edition should be fine for this KATA
 ## How to Declare Test Folder in IntelliJ
  - Create `tests` folder under project folder structure
  - Then, go File->Project Structure `Command`+`;`
- - Finally, in the openned window, mark `tests` folder as Tests (as dicleared in `Mark as`)
+ - Finally, in the openned window, mark `tests` folder as Tests (as declared in `Mark as`)
  
 Video can be found here =>https://www.youtube.com/watch?v=Bld3644bIAo
